@@ -1,0 +1,6 @@
+C:\Workbase\DapperExt\DapperExt.Core\bin\Debug\DapperExt.Core.dll
+C:\Workbase\DapperExt\DapperExt.Core\bin\Debug\DapperExt.Core.pdb
+C:\Workbase\DapperExt\DapperExt.Core\obj\Debug\DapperExt.Core.csprojAssemblyReference.cache
+C:\Workbase\DapperExt\DapperExt.Core\obj\Debug\DapperExt.Core.csproj.CoreCompileInputs.cache
+C:\Workbase\DapperExt\DapperExt.Core\obj\Debug\DapperExt.Core.dll
+C:\Workbase\DapperExt\DapperExt.Core\obj\Debug\DapperExt.Core.pdb

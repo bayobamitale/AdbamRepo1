@@ -1,0 +1,9 @@
+C:\Workbase\DapperExt\DapperExt.Data\bin\Debug\DapperExt.Data.dll
+C:\Workbase\DapperExt\DapperExt.Data\bin\Debug\DapperExt.Data.pdb
+C:\Workbase\DapperExt\DapperExt.Data\bin\Debug\Dapper.dll
+C:\Workbase\DapperExt\DapperExt.Data\bin\Debug\Dapper.xml
+C:\Workbase\DapperExt\DapperExt.Data\obj\Debug\DapperExt.Data.csprojAssemblyReference.cache
+C:\Workbase\DapperExt\DapperExt.Data\obj\Debug\DapperExt.Data.csproj.CoreCompileInputs.cache
+C:\Workbase\DapperExt\DapperExt.Data\obj\Debug\DapperExt.Data.csproj.CopyComplete
+C:\Workbase\DapperExt\DapperExt.Data\obj\Debug\DapperExt.Data.dll
+C:\Workbase\DapperExt\DapperExt.Data\obj\Debug\DapperExt.Data.pdb
